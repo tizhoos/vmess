@@ -1,0 +1,10 @@
+{
+  "name": "telegram-channel-reader",
+  "version": "1.0.0",
+  "description": "A library for reading telegram channels and extracting vmess URIs",
+  "main": "telegramChannelReader.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0"
+  }
+}
